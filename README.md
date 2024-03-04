@@ -1,3 +1,13 @@
+# Summary
+
+Along with a group of 3 other SWE interns, we designed and prototyped a Jobs Page feature for LinkedIn's website. We started by using Figma to design the features we thought would be helpful for users who were job-searching. We created the layout of our pages, then we moved onto coding it on an angular server using HTML and CSS.
+
+# My contributions
+
+I led the team of interns in using Figma by teaching my peers how to use libraries, frames, and other foundational features of Figma. 
+
+Then, I replicated our designs using HTML and CSS. I created all the webpage layouts using flex and grid to ensure proper formatting across different screen sizes. 
+
 # Sprinternship 2024 LinkedIn Jobs Page
 
 Welcome to Sprinternship Linkedin Jobs Page! The simple page anyone can use to post or read others' interviews and jobs experiences! 

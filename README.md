@@ -1,6 +1,6 @@
 # Summary
 
-Along with a group of 3 other SWE interns, we designed and prototyped a Jobs Page feature for LinkedIn's website. We started by using Figma to design the features we thought would be helpful for users who were job-searching. We created the layout of our pages, then we moved onto coding it on an angular server using HTML and CSS.
+Along with a group of 3 other SWE interns, I designed and prototyped a Jobs Page feature for LinkedIn's website. We started by using Figma to design the features we thought would be helpful for users who were job-searching. We created the layout of our pages, then we moved on to coding it on an angular server using HTML and CSS.
 
 # My contributions
 
